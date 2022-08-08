@@ -10,5 +10,3 @@
     <img src="https://img.shields.io/badge/코인트레이더-git-red"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
-
-Here are some ideas to get you started:
