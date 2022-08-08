@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<!--
-**hytric/hytric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/iesl-lab-inha/StockAnalysisInPython_IESL">
+    <img src="https://img.shields.io/badge/<학부연구생>-<git>-<COLOR>"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
+
+<!-- Example -->
+<a href="https://github.com/yun-goon/copy-money">
+    <img src="https://img.shields.io/badge/코인트레이더-git-red"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
 
 Here are some ideas to get you started:
-
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
